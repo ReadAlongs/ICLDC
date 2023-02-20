@@ -12,15 +12,15 @@ First off, we need to talk about an idea called an "encoding".  Computers store 
 
 For a computer to store and use text, it has to know exactly what letter maps to what number.  (Think of a big chart with every letter assigned to a number.)  It used to be that different languages might use completely different charts.  For example, the chart for Danish, Norwegian, and Swedish mapped 139 to "ï", but the Icelandic chart mapped 139 to "Ð".  It even differed between different operating systems; on an old Macintosh, the Icelandic "Ð" was 220 instead.  This obviously led to a mess, and you may have had the experience of opening an old document on a modern computer and seeing complete nonsense.  
 
-"Unicode" was a consortium, founded in 1988, to try to get all the world's languages on the same standard, and also have a robust system to add new characters so that we collectively didn't have to switch to a new standard every time we needed to add a new letter.  By the late 1990s, Unicode started to become widely adopted, and even though the resulting system is genuinely very complicated, at least we all agree on it now!
+"Unicode" was a project from around 1987-1992 to try to get all the world's languages on the same standard, and also have a robust system to add new characters so that we collectively didn't have to switch to a new standard every time we needed to add a new letter.  By the late 1990s, Unicode had become widely adopted, although not all language communities adopted it immediately, and you'll still find some documents that don't use it.
 
 The most common Unicode encoding is called UTF-8, and that's what our software expects.  If you wrote your document recently, using modern software like Word or a modern text editor, your document is probably already in UTF-8.
 
 ## A further complication: "font hacks"
 
-Before the Unicode revolution, official languages of European and Asian nations had official, named letter-to-number charts, that were internationally understood and built into most major operating systems.  But most languages in the world didn't have this.  
+There were actually not that many official, internationally-understood charts, built into and understood by operating systems, like the Nordic or Icelandic examples above.  This was really just the case for some official languages of wealthy nations.  Most languages didn't have this.
 
-Instead, they would use another country's chart (usually the basic U.S. English chart, ASCII) and then use a special font to display those letters *as if* they were their special letters. (If you had a lot of different letters, like Cree or Inuktut Syllabics, it might even display pairs of Roman letters as single Syllabics symbols.)  We refer to this trick as a "font hack".
+Instead, they would use another country's chart (usually the basic U.S. English chart, ASCII) and then use a special font to display those letters *as if* they were their special letters. (If you had a lot of different letters, like Cree or Inuktut Syllabics, it might even display pairs of Roman letters as single Syllabics symbols.)  That way, you didn't have to convince Microsoft and Apple and everyone else to support your format, you just had to release a special font.  We refer to this trick as a "font hack".
 
 Have you ever encountered a problem where if you change fonts, your document starts looking like "q4kv!b'2q4'1a41 ju1' q3mcx$l"?  Or if you copy/paste into an email you get stuff like that?  Then your document probably uses "font hacks".
  
