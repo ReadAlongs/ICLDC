@@ -1,20 +1,30 @@
-## Supported languages
+# Supported languages
 
-For many languages, the software should work right out of the box.  Even your language isn't one of the 30-some languages that are explicitly listed, you can set the language setting to Undetermined (und) and it can usually make good guesses about what each letter sounds like.  (This even works for many non-Roman alphabets like Cyrillic or Arabic or Syllabics.)  
+For many languages, the software should work right out of the box.  
 
-However, it will generally guess based on "typical" pronunciations of those letters across lots of languages.  If you language uses familiar letters but in unfamiliar ways, the software may have trouble guessing.
+Even your language isn't one of the 30-some languages that are explicitly listed below, you can set the language setting to Undetermined (und) and it can usually make good guesses about what each letter sounds like.  (This even works for many non-Roman alphabets like Cyrillic or Arabic or Syllabics.)  
 
-Let's consider to example languages, Spanish and Irish Gaelic.
+## What languages are specifically supported? 
 
-* Even if you don't speak Spanish, you could probably be given a word like "Domingo" or "zapatos" and make a pretty good guess at how it's pronounced, because Spanish uses its letters in a pretty cross-linguistically ordinary way.  You might not be able to pronounce it correctly, but if you heard it in a recording, you could probably recognize it.
+Algonquin, Atikamekw, Chukchi, Michif, Southern East Cree, Plains Cree, Northern East Cree, Moose Cree, Swampy Cree, Western Highland Chatino, Danish, English, Finnish, French, Gitksan, Scottish Gaelic, Gwich'in, Hän, Western Inuktut, Inuktitut, Kaska, Kwak'wala, Raga, Mi'kmaq, Innu-aimun, Mohawk, Ojibwe, Seneca, Tsuut'ina, SENĆOŦEN, Upper Tanana, Southern Tutchone, Tagish Tlingit, Northern Tutchone, and Hoocąk.
+
+## What about languages not on this list?
+
+The software will generally guess pronunciations based on "typical" pronunciations of those letters across lots of languages.  It'll guess that the Latin letter "S" makes a ssss sound because that's how that letter is used in most languages.  It'll guess that Cyrillic "C" and Perso-Arabic "س" are also the ssss sound for the same reasons.  
+
+It's not always a correct guess, but ultimately, what it's trying to do with those guesses isn't that hard.  Imagine if I played you a recording of "Uyakwazi ukuthetha isiXhosa?" ("Do you speak the Xhosa language?") and asked you to identify where each word started and ended.  Would it matter if you guessed wrong what sound the "X" made?  Nah, you'd still do fine.
+
+However, the more often this happens, the more likely it is that errors will accumulate and the results will be not quite as good.  Let's consider two example languages, Spanish and Irish Gaelic:
+
+* Even if you don't speak Spanish, you could probably be given a word like "domingo" or "zapatos" and make a pretty good guess at how it's pronounced, because Spanish uses its letters in a pretty cross-linguistically ordinary way.  You might not be able to pronounce it correctly, but if you heard it in a recording, you could probably recognize it.
 
 * On the other hand, consider Irish Gaelic.  If someone gave you the word "mhaith", how would you pronounce that?  It's something more like "va" or "wa"!  You would absolutely never guess that if you didn't know Irish Gaelic, and nor will our software.  
 
-So you have to ask yourself, "Is my language more like Spanish, or more like Irish?"
-
-(Even if it's not in Roman letters.  If your language uses another alphabet, but it uses the letters in mostly the same way as other languages that use that alphabet, it'll probably work.  Or if you're the only language that uses that alphabet, it'll probably work.  It's mostly languages that use familiar alphabets in unfamiliar ways that don't work.)
+So you have to ask yourself, "Is my language more like Spanish, or more like Gaelic?"  (Actually, even Gaelic should work fine.  Enough of the letters *do* have their ordinary pronunciations that it doesn't throw things off much.  I just cherry-picked "mhaith" for an example.)
 
 Anyway, we suggest, if your language isn't already supported by the software, to try using the Undetermined (und) setting and see how well that works.  If it works very poorly, but there's a language that's written in a very similar language to yours (e.g. a neighboring language), give that a try next.  If it doesn't work with "und", and there's no similar-enough language, send us an email after the workshop and we'll discuss adding a language-specific pronunciation chart for your language.
+
+## Other difficult languages
 
 Other languages that may not work well are ones where vowels aren't written and you have to figure them out based on context, like Arabic and Hebrew.  The software just isn't smart enough to add in unwritten vowels in a language it doesn't know.  It also won't work well in languages where one symbol can have completely different readings depending on context, like in Japanese.  The software can't know when "山" is pronounced as "san" vs. "yama", let alone completely unpredictable stuff like "小豆" being pronounced "azuki" rather than "shōzu".
 
