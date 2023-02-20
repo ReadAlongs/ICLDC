@@ -8,9 +8,9 @@ If you don't know what Unicode is, keep reading.
 
 ## What's Unicode?
 
-First off, we need to talk about an idea called an "encoding".  Computers store everything as numbers inside, like "hello" is typically stored as the sequence of numbers 104 101 108 108 111.  (If you noticed that both the 3rd and 4th numbers are 108, that's the "l".  You're getting the hang of it!)
+First off, we need to talk about an idea called an "encoding".  Computers store everything as numbers inside, like "hello" is typically stored as the sequence of numbers 104 101 108 108 111.  (If you noticed that both the 3rd and 4th numbers are 108, that's the lowercase "L".  You're getting the hang of it!)
 
-For a computer to store and use text, it has to know exactly what letter maps to what number.  (Think of a big chart with every letter assigned to a number.)  It used to be that different languages might use completely different charts.  For example, the chart for Danish, Norwegian, and Swedish mapped 139 to "ï", but the Icelandic chart mapped 143 to "Ð".  It even differed between different operating systems, on an old Macintosh Icelandic "Ð" was 220 instead.
+For a computer to store and use text, it has to know exactly what letter maps to what number.  (Think of a big chart with every letter assigned to a number.)  It used to be that different languages might use completely different charts.  For example, the chart for Danish, Norwegian, and Swedish mapped 139 to "ï", but the Icelandic chart mapped 139 to "Ð".  It even differed between different operating systems; on an old Macintosh, the Icelandic "Ð" was 220 instead.
 
 This obviously led to a mess, and you may have had the experience of opening an old document on a modern computer and seeing complete nonsense.  "Unicode" was a consortium, founded in 1988, to try to get all the world's languages on the same standard, and also have a robust system to add new characters so that we collectively didn't have to switch to a new standard every time we needed to add a new letter.  This was a success, and even though the resulting system is genuinely very complicated, at least we all agree on it!
 

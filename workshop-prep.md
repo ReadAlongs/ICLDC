@@ -35,4 +35,4 @@ For many languages, the software should work right out of the box.  Even your la
 
 However, it will generally guess based on "typical" pronunciations of those letters across lots of languages.  If you language uses familiar letters but in unfamiliar ways, the software may have trouble guessing.
 
-For more information on what kinds of languages *do* or *don't* work well with the automatic guessing, go to the [Languages page].
+For more information on what kinds of languages *do* or *don't* work well with the automatic guessing, go to the [Languages page](languages.md).
