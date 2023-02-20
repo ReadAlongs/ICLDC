@@ -1,10 +1,4 @@
-# Readalong Studio Tutorial
-
-## What's a read-along?
-
-Read-alongs are a kind of audiobook for language and literacy education, that highlights the word being spoken to help beginner readers follow along.  You can even click on a word to hear it said in isolation.
-
-## What to prepare in advance
+# Preparing for the Readalongs workshop at ICLDC
 
 Making a story into a readalong requires two things:
 
@@ -13,7 +7,7 @@ Making a story into a readalong requires two things:
 
 If you don't have these, you can still attend the workshop; we can show you how to write/record a quick story directly in our software, just to try it out.
 
-### What kind of stories work best?
+## What kind of stories work best?
 
 It works best if the story is less than 5 minutes long.  (It can potentially handle longer, we've had people use it for stories up to 20 minutes before.  But for this tutorial, it's better if you have something very short.)
 
@@ -23,7 +17,7 @@ One further thing is that our software doesn't know how to pronounce numbers in 
 
 Fundamentally, think of this software as if it's someone who DOESN'T speak your language, but it reasonably smart about what letters sound like in many languages.  If I gave you a recording of someone saying "seiscientos treinta y cuatro dolares" and that text, and asked you to tell me when exactly each word was spoken, you could totally do this even if you had never heard a word of Spanish in your life.   If I gave you that recording and the text "$634", you wouldn't be able to do it except if you spoke Spanish, you just wouldn't know what each number sounded like.  That's the situation our software is in.  
 
-### What kind of format does the text have to be in?
+## What kind of format does the text have to be in?
 
 The text has to be in a digital text format, such as plain text .TXT.  For a richer format like Word .DOC, you can copy/paste the text from your document into our software.  (But note you'll lose any formatting that you had.  If you had bold or italics or colors, those will be lost.)
 
@@ -31,7 +25,7 @@ There are some additional requirements on how special characters and fonts are h
 
 Also, it can't just be a photo or video of the document, it has to be something with copy/paste-able text.  (If you can't easily get the text out of your document, nor will our software be able to!)
 
-### What kind of format does the audio have to be in?
+## What kind of format does the audio have to be in?
 
 Audio recordings in .WAV and .MP3 will definitely work.  Other formats *might* work but it depends on your operating system and browser.
 
