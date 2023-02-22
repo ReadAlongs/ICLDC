@@ -6,7 +6,45 @@ Even your language isn't one of the 30-some languages that are explicitly listed
 
 ## What languages are specifically supported? 
 
-Algonquin, Atikamekw, Chukchi, Michif, Southern East Cree, Plains Cree, Northern East Cree, Moose Cree, Swampy Cree, Western Highland Chatino, Danish, English, Finnish, French, Gitksan, Scottish Gaelic, Gwich'in, Hän, Western Inuktut, Inuktitut, Kaska, Kwak'wala, Raga, Mi'kmaq, Innu-aimun, Mohawk, Ojibwe, Seneca, Tsuut'ina, SENĆOŦEN, Upper Tanana, Southern Tutchone, Tagish Tlingit, Northern Tutchone, and Hoocąk.
+At the time of writing this:
+
+Algonquin,
+Atikamekw,
+Chukchi,
+Danish,
+English,
+Finnish,
+French,
+Gitksan,
+Gwich'in,
+Hän,
+Hoocąk,
+Innu-aimun,
+Inuktitut,
+Kaska,
+Kwak'wala,
+Michif,
+Mi'kmaq,
+Mohawk,
+Moose Cree,
+Northern East Cree,
+Northern Tutchone,
+Nsyilxcən,
+Ojibwe,
+Plains Cree,
+Raga,
+Scottish Gaelic,
+SENĆOŦEN,
+Seneca,
+Southern East Cree,
+Southern Tutchone,
+Swampy Cree,
+Tagish,
+Tlingit,
+Tsuut'ina,
+Upper Tanana,
+Western Highland Chatino,
+and Western Inuktut.
 
 ## What about languages not on this list?
 
