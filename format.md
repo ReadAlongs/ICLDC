@@ -1,10 +1,10 @@
 # Formatting requirements for the text
 
-There are thousands of ways of representing text, and just practically we can't handle all of them.  Luckily, within the last 20 years there's been a lot of standardization of text representation that means that the software will be able to handle MOST things people throw at it.  But if you put in text from an older document (or if you're still writing your documents using the same procedures you did 20 years ago), you might run into trouble.
+There are thousands of ways of representing text, and just practically we can't handle all of them.  Luckily, within the last 20 years there's been a lot of standardization of text representation that means that the software will be able to handle *most* things people throw at it.  But if you put in text from an older document (or if you're still writing your documents using the same procedures you did 20 years ago), you might run into trouble.
 
 Basically, so long as your document is in Unicode (specifically, in the UTF-8 encoding), and it's either plain text (.TXT) or it's something like a Word document where you can copy/paste text out of it, you'll probably be fine.  
 
-If you don't know what Unicode is, keep reading.
+If you already know what Unicode is, don't bother with the rest of this page.
 
 ## What's Unicode?
 
@@ -20,7 +20,7 @@ The most common Unicode encoding is called UTF-8, and that's what our software e
 
 There were actually not that many official, internationally-understood charts, built into and understood by operating systems, like the Nordic or Icelandic examples above.  This was really just the case for some official languages of wealthy nations.  Most languages didn't have this.
 
-Instead, they would use another country's chart (usually the basic U.S. English chart, ASCII) and then use a special font to display those letters *as if* they were their special letters. (If you had a lot of different letters, like Cree or Inuktut Syllabics, it might even display pairs of Roman letters as single Syllabics symbols.)  That way, you didn't have to convince Microsoft and Apple and everyone else to support your format, you just had to release a special font.  We refer to this trick as a "font hack".
+Instead, they would use another country's chart (usually the basic U.S. English chart, ASCII) and then use a special font to display those letters *as if* they were their special letters. (If you had a lot of different letters, like Cree or Inuktut Syllabics, it might even display pairs of Roman letters as single Syllabics symbols.)  That way, you didn't have to convince Microsoft and Apple and everyone else to support your format, you just had to release a special font.  We refer to this technique as a "font hack".
 
 Have you ever encountered a problem where if you change fonts, your document starts looking like "q4kv!b'2q4'1a41 ju1' q3mcx$l"?  Or if you copy/paste into an email you get stuff like that?  Then your document probably uses "font hacks".
  

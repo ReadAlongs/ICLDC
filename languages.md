@@ -6,7 +6,45 @@ Even your language isn't one of the 30-some languages that are explicitly listed
 
 ## What languages are specifically supported? 
 
-Algonquin, Atikamekw, Chukchi, Michif, Southern East Cree, Plains Cree, Northern East Cree, Moose Cree, Swampy Cree, Western Highland Chatino, Danish, English, Finnish, French, Gitksan, Scottish Gaelic, Gwich'in, Hän, Western Inuktut, Inuktitut, Kaska, Kwak'wala, Raga, Mi'kmaq, Innu-aimun, Mohawk, Ojibwe, Seneca, Tsuut'ina, SENĆOŦEN, Upper Tanana, Southern Tutchone, Tagish Tlingit, Northern Tutchone, and Hoocąk.
+At the time of writing this:
+
+Algonquin,
+Atikamekw,
+Chukchi,
+Danish,
+English,
+Finnish,
+French,
+Gitksan,
+Gwich'in,
+Hän,
+Hoocąk,
+Innu-aimun,
+Inuktitut,
+Kaska,
+Kwak'wala,
+Michif,
+Mi'kmaq,
+Mohawk,
+Moose Cree,
+Northern East Cree,
+Northern Tutchone,
+Nsyilxcən,
+Ojibwe,
+Plains Cree,
+Raga,
+Scottish Gaelic,
+SENĆOŦEN,
+Seneca,
+Southern East Cree,
+Southern Tutchone,
+Swampy Cree,
+Tagish,
+Tlingit,
+Tsuut'ina,
+Upper Tanana,
+Western Highland Chatino,
+and Western Inuktut.
 
 ## What about languages not on this list?
 
@@ -22,10 +60,10 @@ However, the more often this happens, the more likely it is that errors will acc
 
 So you have to ask yourself, "Is my language more like Spanish, or more like Gaelic?"  (Actually, even Gaelic should work fine.  Enough of the letters *do* have their ordinary pronunciations that it doesn't throw things off much.  I just cherry-picked "mhaith" for an example.)
 
-Anyway, we suggest, if your language isn't already supported by the software, to try using the Undetermined (und) setting and see how well that works.  If it works very poorly, but there's a language that's written in a very similar language to yours (e.g. a neighboring language), give that a try next.  If it doesn't work with "und", and there's no similar-enough language, send us an email after the workshop and we'll discuss adding a language-specific pronunciation chart for your language.
+Anyway, we suggest, if your language isn't already supported by the software, to try using the Undetermined (und) setting and see how well that works.  If it works very poorly, but there's a language that's written in a very similar way to yours (e.g. a neighboring language), give that a try next.  If it doesn't work with "und", and there's no similar-enough language, send us an email after the workshop and we'll discuss adding a language-specific pronunciation chart for your language.
 
 ## Other difficult languages
 
 Other languages that may not work well are ones where vowels aren't written and you have to figure them out based on context, like Arabic and Hebrew.  The software just isn't smart enough to add in unwritten vowels in a language it doesn't know.  It also won't work well in languages where one symbol can have completely different readings depending on context, like in Japanese.  The software can't know when "山" is pronounced as "san" vs. "yama", let alone completely unpredictable stuff like "小豆" being pronounced "azuki" rather than "shōzu".
 
-For languages like Arabic, Hebrew, and Japanese, there's not a whole lot we can do because learning how to pronounce sentences these languages *is* a very hard, language-specific problem that requires understanding what the sentence means in order to understand how it's pronounced.  That's a LOT harder than what our software does.  You can contact us to discuss what to do about them, but for the most part it'll involve you finding or writing a language-specific program to guess pronunciations, it's outside of what we can realistically concentrate on.
+For languages like Arabic, Hebrew, and Japanese, there's not a whole lot we can do because learning how to pronounce sentences these languages *is* a very hard, language-specific problem that requires understanding what the sentence means in order to understand how it's pronounced.  That's a LOT harder than what our software does.  You can contact us to discuss what to do about them, but for the most part it'll involve you finding or writing a language-specific program to guess pronunciations, and it's outside of what we can realistically concentrate on.
