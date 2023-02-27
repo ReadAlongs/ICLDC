@@ -1,4 +1,4 @@
-# ICLDC "Readalongs" Workshop documentation
+# ICLDC "ReadAlongs" Workshop Documentation
 
 Welcome, participants of the "'Watch Me Speak!' interactive storytelling using ReadAlong Studio" workshop!  These documents will help you understand what Readalong Studio is and how to prepare for the workshop.
 
