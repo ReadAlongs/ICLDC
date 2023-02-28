@@ -9,6 +9,7 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
      - [Data formats](format.md)
      - [Supported languages](languages.md)
    - [Information for during the worksop](during-workshop.md)
+     - [Troubleshooting](troubleshooting.md)
  - External links
    - [The ReadAlong Studio Web App](https://readalong-studio.mothertongues.org/)
    - [The ReadAlong Studio Web App (French version)](https://readalong-studio.mothertongues.org/fr/)

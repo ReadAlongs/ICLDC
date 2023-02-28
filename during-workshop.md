@@ -52,3 +52,34 @@ Open the language menu and see if your language is already included.  If it is, 
 ![Screenshot of the language input interface](images/lang-input.png "The language input interface")
 
 If you'd like to know more about how we handle Undetermined languages, and whether this option is likely to work with your languages, check out our detailed description in [Supported Languages](languages.md)
+
+### Align it!
+
+Click "Go to the next step".  The software will then attempt to align the text you entered with the recording you made.  On the next page you should see a readalong, press play to see how well it aligned!
+
+If the alignment fails and you get an error message, or if the resulting alignments are poor quality, here are some of the most common problems:
+
+* Audio and text that don't exactly correspond (for example, something in the text that wasn't read aloud)
+* Too long of a story (once you get up past 10 minutes, errors become more common
+* Numbers and symbols in the text 
+* Background noise
+
+These issues are explained further in [Troubleshooting](troubleshooting.md)
+
+## Add decorations
+
+You can now add a title, a subtitle, and an image for each page.
+
+![Screenshot of a sample readalong](images/sample-readalong.png "A sample readalong")
+
+You can also add a translation for each line (or a gloss, or any other information).  Just press the "+" button next to each line and you'll be given a place to type in the translation.
+
+## Download it
+
+In the upper right corner there's a download button:
+
+![Screenshot of the download button](images/download-button.png "The download button")
+
+You can choose one of several formats.  We just want the default "Offline HTML" for now.  That bundles all the text, audio, and images into a self-contained HTML file that you can put on a web page.
+
+(The other formats are used for subtitling videos or for descriptive/academic research; they're not immediately relevant to the goals of this workshop.)
