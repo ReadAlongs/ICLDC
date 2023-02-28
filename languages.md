@@ -64,6 +64,8 @@ Anyway, we suggest, if your language isn't already supported by the software, to
 
 ## Other difficult languages
 
-Other languages that may not work well are ones where vowels aren't written and you have to figure them out based on context, like Arabic and Hebrew.  The software just isn't smart enough to add in unwritten vowels in a language it doesn't know.  It also won't work well in languages where one symbol can have completely different readings depending on context, like in Japanese.  The software can't know when "山" is pronounced as "san" vs. "yama", let alone completely unpredictable stuff like "小豆" being pronounced "azuki" rather than "shōzu".
+Other languages that may not work well are ones where vowels aren't written and you have to figure them out based on context, like Arabic and Hebrew.  The software just isn't smart enough to add in unwritten vowels in a language it doesn't know.  
+
+It also won't work well in languages where one symbol can have completely different readings depending on context, like in Japanese.  The software can't know when "山" is pronounced as "san" vs. "yama", let alone completely unpredictable stuff like "小豆" being pronounced "azuki" rather than "shōzu".
 
 For languages like Arabic, Hebrew, and Japanese, there's not a whole lot we can do because learning how to pronounce sentences these languages *is* a very hard, language-specific problem that requires understanding what the sentence means in order to understand how it's pronounced.  That's a LOT harder than what our software does.  You can contact us to discuss what to do about them, but for the most part it'll involve you finding or writing a language-specific program to guess pronunciations, and it's outside of what we can realistically concentrate on.

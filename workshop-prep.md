@@ -1,11 +1,13 @@
 # Preparing for the Readalongs workshop at ICLDC
 
-Turning a story into a readalong requires two things:
+To participate in this workshop, you'll need a computer (a desktop or laptop), and a modern web browser like Chrome, Safari, Firefox, or Edge.  We don't recommend using a tablet or phone to make readalongs. (You can *view* the resulting readalongs on a tablet or phone, but we don't recommend *making* them on a tablet or phone.)
+
+In addition, we recommend coming prepared with a story.  Turning a story into a readalong requires two files:
 
   * The written text of the story, in a digital text format like .TXT.  (Just having a photo of the story isn't enough, it has to be a text document of some sort.)
   * A digital audio recording of someone reading the story aloud, in .WAV or .MP3 format.  (The less background noise, the better!  If there's a lot going on in the background ― wind or machinery or other people talking ― the software often can't process it.)
 
-If you don't have these, you can still attend the workshop; we can show you how to write/record a quick story directly in our software, just to try it out.
+If you don't have these, you can still attend the workshop; we'll be showing you how to write/record a quick story directly in our software, just to try it out.
 
 ## What kind of stories work best?
 

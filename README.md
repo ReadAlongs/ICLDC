@@ -12,15 +12,15 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
  - External links
    - [The ReadAlong Studio Web App](https://readalong-studio.mothertongues.org/)
    - [The ReadAlong Studio Web App (French version)](https://readalong-studio.mothertongues.org/fr/)
-   - [Feedback form](#TODO-add-this-link)
+   - [Feedback form](https://forms.gle/1HnEJ2Va4CPGhEwT9)
    - [Feature request form](https://readalongstudio-feedback-finithek.featureupvote.com/)
  - Source code
    - [ReadAlong-Studio Web app and Web-Component](https://github.com/ReadAlongs/Web-Component)
    - [ReadAlong-Studio CLI and back-end](https://github.com/ReadAlongs/Studio)
    - [g2p (Grapheme-to-Phoneme)](https://github.com/roedoejet/g2p)
  - Related publications
-   - [ReadAlong studio: practical zero-shot text-speech alignment for indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c)
-   - [Gᵢ2Pᵢ: rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79)
+   - [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c)
+   - [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79)
 
 ## What is Readalong Studio?
 
