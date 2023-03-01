@@ -23,3 +23,15 @@ Fundamentally, think of this software as if it's someone who *doesn't* speak you
 ## Check for background noise
 
 Check whether there's a lot of background noise, like a loud fan, people talking in the background, etc.  Those can mislead the software because it has trouble hearing the speech, or gets confused who it's supposed to be listening to.
+
+## Browser compatibility issues
+
+The read-alongs that get created by the Studio should work on most browsers, even relatively old ones.
+
+However, the ReadAlong Studio web app, the app that is used to create read-alongs, requires a recent up-to-date browser. If the app fails to load in your default browser, please install the latest version of Chrome, and things should work there.
+
+## Device compatibility issues
+
+The technology is quite portable, working on most devices, but it will be easier to create read-alongs if you are working on a computer rather than a mobile device.
+
+The read-alongs you will create should work well on mobile devices too, but creation is more demanding.
