@@ -35,6 +35,6 @@ Audio recordings in .WAV and .MP3 will definitely work.  Other formats *might* w
 
 For many languages, the software should work right out of the box.  Even if your language isn't one of the 30-some languages that are explicitly listed, you can keep the default language option of Undetermined (und) and it can usually make good guesses about what each letter sounds like.  (This even works for many non-Roman alphabets like Cyrillic or Arabic or Syllabics.)  
 
-However, it will generally guess based on "typical" pronunciations of those letters across lots of languages.  If you language uses familiar letters but in unfamiliar ways, the software may have trouble guessing.
+However, it will generally guess based on "typical" pronunciations of those letters across lots of languages.  If your language uses familiar letters but in unfamiliar ways, the software may have trouble guessing.
 
 For more information on what kinds of languages *do* or *don't* work well with the automatic guessing, go to the [Languages page](languages.md).

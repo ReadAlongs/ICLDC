@@ -2,7 +2,7 @@
 
 For many languages, the software should work right out of the box.  
 
-Even your language isn't one of the 30-some languages that are explicitly listed below, you can set the language setting to Undetermined (und) and it can usually make good guesses about what each letter sounds like.  (This even works for many non-Roman alphabets like Cyrillic or Arabic or Syllabics.)  
+Even if your language isn't one of the 30-some languages that are explicitly listed below, you can set the language setting to Undetermined (und) and it can usually make good guesses about what each letter sounds like.  (This even works for many non-Roman alphabets like Cyrillic or Arabic or Syllabics.)  
 
 ## What languages are specifically supported? 
 
