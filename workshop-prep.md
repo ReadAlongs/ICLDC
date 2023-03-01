@@ -38,15 +38,3 @@ For many languages, the software should work right out of the box.  Even if your
 However, it will generally guess based on "typical" pronunciations of those letters across lots of languages.  If you language uses familiar letters but in unfamiliar ways, the software may have trouble guessing.
 
 For more information on what kinds of languages *do* or *don't* work well with the automatic guessing, go to the [Languages page](languages.md).
-
-## What browsers does the software work on?
-
-The read-alongs that get created by the Studio should work on most browsers, even realatively old ones.
-
-However, the ReadAlong Studio web app, the app that is used to create read-alongs, requires a up-to-date modern browser. If the app fails to load in your default browser, please install the latest version of Chrome, and things should work.
-
-## What device do I need?
-
-The technology is quite portable, working on most devices, but it will be easier to create read-alongs if you are working on a computer rather than a mobile device.
-
-Again, the read-alongs you will create should just as well on mobile devices, but creation is more demanding.
