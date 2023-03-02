@@ -10,9 +10,11 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
      - [Supported languages](languages.md)
    - [Instructions for during the worksop](during-workshop.md)
    - [Troubleshooting](troubleshooting.md)
- - External links
+ - The app
    - [The ReadAlong Studio Web App](https://readalong-studio.mothertongues.org/)
-   - [The ReadAlong Studio Web App (French version)](https://readalong-studio.mothertongues.org/fr/)
+   - [L'appli Studio ReadAlong en français](https://readalong-studio.mothertongues.org/fr/)
+   - [El Studio de ReadAlong en español](https://readalong-studio.mothertongues.org/es/) (Gracias a Jorge Rosés Labrada)
+ - Providing feedback
    - [Feedback form](https://forms.gle/1HnEJ2Va4CPGhEwT9)
    - [Feature request form](https://readalongstudio-feedback-finithek.featureupvote.com/)
  - Source code
