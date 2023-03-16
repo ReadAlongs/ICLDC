@@ -10,6 +10,7 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
      - [Supported languages](languages.md)
    - [Instructions for during the worksop](during-workshop.md)
    - [Troubleshooting](troubleshooting.md)
+   - [Recording of the workshop](https://www.youtube.com/watch?v=9CwDCtJGl6w) (The presentation is from 0:00 to 40:30, then it's mostly silence while participant are in the break-out rooms, which were not recorded. There is a short wrap-up from 1:14:38, but the language party at the end was not recorded due to data sovereignty and privacy considerations, and the conclusion was not recorded either.)
  - The app
    - [The ReadAlong Studio Web App](https://readalong-studio.mothertongues.org/)
    - [L'appli Studio ReadAlong en français](https://readalong-studio.mothertongues.org/fr/)
