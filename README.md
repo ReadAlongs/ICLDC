@@ -17,7 +17,9 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
    - [El Studio de ReadAlong en español](https://readalong-studio.mothertongues.org/es/) (Gracias a Jorge Rosés Labrada)
  - Providing feedback
    - [Feedback form](https://forms.gle/1HnEJ2Va4CPGhEwT9)
-   - [Feature request form](https://readalongstudio-feedback-finithek.featureupvote.com/)
+   - ~Feature request form~ (expired)
+   - Contact us by email to provide your feature requests or bug reports: readalong dot studio à gmail dot com
+   - [Submit an issue on GitHub](https://github.com/ReadAlongs/Web-Component/issues)
  - Source code
    - [ReadAlong-Studio Web app and Web-Component](https://github.com/ReadAlongs/Web-Component)
    - [ReadAlong-Studio CLI and back-end](https://github.com/ReadAlongs/Studio)
