@@ -2,6 +2,8 @@
 
 Welcome, participants of the "'Watch Me Speak!' interactive storytelling using ReadAlong Studio" workshop!  These documents will help you understand what Readalong Studio is and how to prepare for the workshop.
 
+This workshop was presented at [ICLDC 2023](http://ling.lll.hawaii.edu/sites/icldc/), March 2-5, 2023.
+
 ## Contents and links
 
  - ICLDC Workshop Documentation (this site)
@@ -30,6 +32,7 @@ Welcome, participants of the "'Watch Me Speak!' interactive storytelling using R
    - Pine et al., 2023. [ReadAlong-Studio Web Interface for Digital Interactive Storytelling](https://nrc-publications.canada.ca/eng/view/object/?id=316fb811-134a-4b1c-8b04-20b8988da57d). BEA @ACL.
    - Littell et al., 2022. [ReadAlong studio: Practical zero-shot text-speech alignment for Indigenous language audiobooks](https://nrc-publications.canada.ca/eng/view/object/?id=fad56ec7-77a0-4e64-98e8-c3e36ce5ac1c). SIGUL @LREC.
    - Pine et al., 2022. [Gᵢ2Pᵢ: Rule-based, index-preserving grapheme-to-phoneme transformations](https://nrc-publications.canada.ca/eng/view/object/?id=de4b961d-54bf-4187-a3fc-d875ac285e79). ComputEL.
+   - This workshop on NRC's publications page: Pine et al., 2023. [“Watch me Speak!” interactive storytelling using Read-Along Studio](https://nrc-publications.canada.ca/eng/view/object/?id=fa0863c2-1c95-4156-afa3-064cfea987d6). ICLDC.
 
 ## What is Readalong Studio?
 
